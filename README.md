@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola soy Yoan Estrada Blanco 
+  Frontend developer de 4 años de experiencia fan de Vuejs y Javascript
 
 <!--
 **yoan0102/yoan0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
