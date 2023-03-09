@@ -1,17 +1,36 @@
-### Hola soy Yoan Estrada Blanco 
-  Frontend developer de 4 años de experiencia fan de Vuejs y Javascript
+# Hola soy Yoan Estrada Blanco
 
-<!--
-**yoan0102/yoan0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrrollador Web con habilidades avanzadas en HTML, CSS, Javascript, entusiasta en la comunidad de Nodejs Cuba en [telegram](https://t.me/nodejscuba) y [discord](https://discord.gg/nwHzbDzg)
 
-Here are some ideas to get you started:
+Aprendiz de Nextjs y Remix run
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks usados Profesionalmente
+
+1. ExpressJS
+
+2. TailwindCSS
+
+3. Bootstrap
+4. React
+
+5. Vue2 y 3
+
+6. Bulma
+
+7. NuxtJS
+
+8. Quasar
+
+9. Vuetify
+
+## Habilidades Tecnicas
+
+| Frontend         | Backend   |
+| ---------------- | --------- |
+| HTML             | SQL       |
+| CSS              | HTTP      |
+| JavaScript       | NodeJS    |
+| Typescript       | Express   |
+| Git              | Mongoose  |
+| Jira/Trello      | Sequelize |
+| GitHub/Bitbucket | MongoDB   |
